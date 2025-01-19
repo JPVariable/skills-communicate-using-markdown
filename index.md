@@ -4,4 +4,5 @@
 #### Header 4
 ##### Header 5
 ###### Header 6
-(Testing Markdown Headers)
+
+![BloodBorne Game Image](https://image.api.playstation.com/vulcan/img/rnd/202010/2614/NVmnBXze9ElHzU6SmykrJLIV.png)
